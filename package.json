@@ -1,0 +1,15 @@
+{
+  "name": "news-homepage",
+  "version": "1.0.0",
+  "description": "News homepage coding challenge",
+  "scripts": {
+    "dev": "sass ./styles/index.scss:./dist/styles.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohammed Hassan",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
